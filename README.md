@@ -4,8 +4,6 @@ Discente: Murilo Valduga de Moraes
 
 Docente: Amanda Paul Dull
 
-Esse repositório serve de exemplo para a entrega de atividades da matéria de IoT.
-
 [![Simular no Tinkercad] https://www.tinkercad.com/things/f8RoRCb4udY-exercicio-em-sala-ligar-led
 
 ## Enunciado: Vamos ligar o LED!
